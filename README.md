@@ -1,4 +1,7 @@
-# 쉽고 빠른 Go 시작하기
+# [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners/lobby)
+
+[쉽고 빠른 Go 시작히기](https://nomadcoders.co/go-for-beginners/lobby)를 보고 Golang를 배웁니다.
+
 
 ## 목차
 - 0 INTRODUCTION
