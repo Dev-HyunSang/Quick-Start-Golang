@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://blog.kakaocdn.net/dn/p8SLx/btqQ1M52JBR/aRJqXNIsb1Mo7wBc3gBwm1/img.png">
+  <br />
+  <a href="https://nomadcoders.co/go-for-beginners/lobby">쉽고 빠른 Go 시작하기</a>를 보고 Golang를 배웁니다.
 </p>
-
-[쉽고 빠른 Go 시작히기](https://nomadcoders.co/go-for-beginners/lobby)를 보고 Golang를 배웁니다.
 
 ## 목차
 - 0 INTRODUCTION
