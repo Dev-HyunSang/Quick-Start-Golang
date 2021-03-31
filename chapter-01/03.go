@@ -31,5 +31,4 @@ func main() {
 
 	fmt.Println(totalLenght, upperName)
 	repeatMe("HyunSang", "Rin", "Nico")
-	fmt.Println(lenAndUpperTwo("HyunSang"))
 }
