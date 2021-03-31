@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // for, range, args
 func superAdd(numbers ...int) int {
@@ -25,10 +27,28 @@ func superAddThree(numbers ...int) int {
 	return total
 }
 
+func canIDrink(age int) bool {
+	if age < 18 {
+		return false
+	}
+	return true
+}
+
+func canIDrinkTwo(age int) bool {
+	if koreanAge := age + 2; koreanAge < 18 {
+		return false
+	}
+	return true
+}
+
 func main() {
 
 	const annotation string = "========================="
 	superAdd(1, 2, 3, 4, 5, 6)
 	fmt.Println(annotation)
 	superAddTwo(1, 2, 3, 4, 5, 6)
+	fmt.Println(annotation)
+	fmt.Println(canIDrink(16))
+	fmt.Println(annotation)
+	fmt.Println(canIDrinkTwo(16))
 }
