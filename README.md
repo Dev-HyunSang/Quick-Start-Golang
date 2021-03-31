@@ -1,10 +1,10 @@
 # [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners/lobby)
 
-<div style="text-align: center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40donchanee%2FGo-Lets-GO-1&psig=AOvVaw1w_rCUjDSbPoiD9CN_a1SO&ust=1617238438884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCxxueo2e8CFQAAAAAdAAAAABAN">
-</div>
-
-[쉽고 빠른 Go 시작히기](https://nomadcoders.co/go-for-beginners/lobby)를 보고 Golang를 배웁니다.
+<p align="center">
+  <img src="https://blog.kakaocdn.net/dn/p8SLx/btqQ1M52JBR/aRJqXNIsb1Mo7wBc3gBwm1/img.png">
+  <br />
+  <a href="https://nomadcoders.co/go-for-beginners/lobby">쉽고 빠른 Go 시작하기</a>를 보고 Golang를 배웁니다.
+</p>
 
 ## 목차
 - 0 INTRODUCTION
