@@ -41,6 +41,16 @@ func canIDrinkTwo(age int) bool {
 	return true
 }
 
+func canIDrinkThree(age int) bool {
+	switch koreanAge := age + 2; koreanAge {
+	case 10:
+		return false
+	case 18:
+		return true
+	}
+	return false
+}
+
 func main() {
 
 	const annotation string = "========================="
@@ -51,4 +61,6 @@ func main() {
 	fmt.Println(canIDrink(16))
 	fmt.Println(annotation)
 	fmt.Println(canIDrinkTwo(16))
+	fmt.Println(annotation)
+	fmt.Println(canIDrinkThree(18))
 }
